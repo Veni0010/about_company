@@ -12668,7 +12668,7 @@ blockquote {
     }
 
     .grid-2-block-5 {
-        background-color: var(--brown-light-4);
+        background-color: #000;
         width: 80%;
         margin-bottom: 8em;
         padding-top: 8em;
@@ -15199,4 +15199,5 @@ blockquote {
 }
 .magic-list__item:hover .item-bg {
 	opacity: .1;
+
 }
